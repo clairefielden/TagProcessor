@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1645962557 source:c:\users\fldcla001\desktop\csc3022f\c++\assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stack>
+	<vector>
+	<stdio.h>
+	"tags.h"
+
+1645962627 c:\users\fldcla001\desktop\csc3022f\c++\assignment1\tags.h
+
